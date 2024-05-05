@@ -1,5 +1,5 @@
 # AGV-git-task
-AGV introductory tasks: [Software Tasks ](https://docs.google.com/document/d/16Qf7ExDJJXtkyY7mXiqrvizdUl02AX06gCXuiGcpu0Q/edit?usp=sharing)
+AGV introductory tasks: [ROS + Git Tasks](https://docs.google.com/document/d/1OhTyhqbF9AmXvqavk3pljdnWdggEaLWJNToXuGUitWs/edit)
 # Git - Resources and Tasks
 
 - Resources:
