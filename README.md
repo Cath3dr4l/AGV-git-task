@@ -12,6 +12,10 @@ AGV introductory tasks: [ROS + Git Tasks](https://docs.google.com/document/d/1Oh
 
 This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/).
 
+## Note
+
+While it is tempting to use certain vs code extensions / github desktop, nothing offers the same amount of flexibility as github through the terminal. Needless to say, do all these tasks using your terminal.
+
 ## Task 1
 
 Add your name to this list below 'Entries'.
