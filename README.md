@@ -27,17 +27,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
-Gayathri Anant [Gayathri2004Anant](https://github.com/Gayathri2004Anant)\
-Khushboo Nayak [khushboo-nayak](http://github.com/khushboo-nayak)\
-K. Tharun Selvam [tharun-selvam](https://github.com/tharun-selvam)\
-Sachish Singla [sachishs-15](https://github.com/sachishs-15)\
-Devodita Chakravarty [devodita](https://github.com/devodita)\
-Pranaya Chowdary [pransverse](https://github.com/pransverse)\
-Swaminathan S K [SwaminathanSK](https://github.com/SwaminathanSK)\
-Ayush Kumar [meush](https://github.com/dsawebappayush)\
-Anjali S Vallakudath [Anjali-sv](https://github.com/Anjali-sv)\
-Ahwaban Mukherjee [ahwaban](http://github.com/ahwaban)
-
+ENTER NAMES HERE
 
 ## Task 2
 
