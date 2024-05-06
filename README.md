@@ -33,7 +33,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 ENTER NAMES HERE \
 1)SOHAM DAS[Will2Jacks](http://github.com/Will2Jacks) \
-2)Damiya Gondha [Dami-18](http://github.com/Dami-18) 
+2)Damiya Gondha [Dami-18](http://github.com/Dami-18) \
+3)Anjali Deepu [Anj888](https://github.com/Anj888)
 
 ## Task 2
 
