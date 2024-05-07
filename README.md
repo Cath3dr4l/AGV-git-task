@@ -35,7 +35,9 @@ ENTER NAMES HERE \
 1)SOHAM DAS[Will2Jacks](http://github.com/Will2Jacks) \
 2)Damiya Gondha [Dami-18](http://github.com/Dami-18) \
 3)Anjali Deepu [Anj888](https://github.com/Anj888) \
-4)Aryan Raina [Aryan-Raina](https://github.com/Aryan-Raina)
+4)Aryan Raina [Aryan-Raina](https://github.com/Aryan-Raina) \
+5)Theyanesh [theyanesher](https://github.com/theyanesher)
+
 
 ## Task 2
 
