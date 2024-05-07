@@ -37,7 +37,8 @@ ENTER NAMES HERE \
 3)Anjali Deepu [Anj888](https://github.com/Anj888) \
 4)Aryan Raina [Aryan-Raina](https://github.com/Aryan-Raina) \
 5)Theyanesh [theyanesher](https://github.com/theyanesher) \
-6)Rishi Vishwakarma [rishift](https://github.com/rishift) 
+6)Rishi Vishwakarma [rishift](https://github.com/rishift) \
+7)Shrey Patel [SPatel1709](https://github.com/SPatel1709)
 
 ## Task 2
 
