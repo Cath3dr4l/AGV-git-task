@@ -38,7 +38,8 @@ ENTER NAMES HERE \
 4)Aryan Raina [Aryan-Raina](https://github.com/Aryan-Raina) \
 5)Theyanesh [theyanesher](https://github.com/theyanesher) \
 6)Rishi Vishwakarma [rishift](https://github.com/rishift) \
-7)Shrey Patel [SPatel1709](https://github.com/SPatel1709)
+7)Shrey Patel [SPatel1709](https://github.com/SPatel1709) \
+8)Aditya Srivastava [a-d-i-t-y-a31](https://github.com/a-d-i-t-y-a31)
 
 ## Task 2
 
