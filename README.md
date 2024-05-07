@@ -31,10 +31,11 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
-ENTER NAMES HERE \
-1)SOHAM DAS[Will2Jacks](http://github.com/Will2Jacks) \
-2)Damiya Gondha [Dami-18](http://github.com/Dami-18) \
-3)Anjali Deepu [Anj888](https://github.com/Anj888)
+ENTER NAMES HERE 
+1) Anjali Deepu [Anj888](https://github.com/Anj888) 
+2) Damiya Gondha [Dami-18](http://github.com/Dami-18)
+4) Rishi Vishwakarma [rishift](https://github.com/rishift) 
+3) SOHAM DAS[Will2Jacks](http://github.com/Will2Jacks) 
 
 ## Task 2
 
