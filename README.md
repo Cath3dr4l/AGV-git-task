@@ -35,7 +35,10 @@ ENTER NAMES HERE \
 1)SOHAM DAS[Will2Jacks](http://github.com/Will2Jacks) \
 2)Damiya Gondha [Dami-18](http://github.com/Dami-18) \
 3)Anjali Deepu [Anj888](https://github.com/Anj888) \
-4)Shrey Patel [SPatel1709](https://github.com/SPatel1709)
+4)Aryan Raina [Aryan-Raina](https://github.com/Aryan-Raina) \
+5)Theyanesh [theyanesher](https://github.com/theyanesher) \
+6)Rishi Vishwakarma [rishift](https://github.com/rishift) \
+7)Shrey Patel [SPatel1709](https://github.com/SPatel1709)
 
 ## Task 2
 
