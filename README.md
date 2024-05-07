@@ -34,8 +34,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 ENTER NAMES HERE \
 1)SOHAM DAS[Will2Jacks](http://github.com/Will2Jacks) \
 2)Damiya Gondha [Dami-18](http://github.com/Dami-18) \
-3)Anjali Deepu [Anj888](https://github.com/Anj888)
-
+3)Anjali Deepu [Anj888](https://github.com/Anj888) \
+4)Shrey Patel [SPatel1709](https://github.com/SPatel1709)
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
