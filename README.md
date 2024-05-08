@@ -42,6 +42,7 @@ ENTER NAMES HERE \
 8)Palak Agarwal [palak180](https://github.com/palak180) \
 9)Aditya Srivastava [a-d-i-t-y-a31](https://github.com/a-d-i-t-y-a31) \
 10)Mehul Mathur [mehulmathur05](https://github.com/mehulmathur05) \
+11)Sandip Das [real-Sandip-Das](https://github.com/real-Sandip-Das) \
 
 ## Task 2
 
