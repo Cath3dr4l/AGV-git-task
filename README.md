@@ -32,14 +32,16 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 ENTER NAMES HERE \
-1)SOHAM DAS[Will2Jacks](http://github.com/Will2Jacks) \
+1)SOHAM DAS [Will2Jacks](http://github.com/Will2Jacks) \
 2)Damiya Gondha [Dami-18](http://github.com/Dami-18) \
 3)Anjali Deepu [Anj888](https://github.com/Anj888) \
 4)Aryan Raina [Aryan-Raina](https://github.com/Aryan-Raina) \
 5)Theyanesh [theyanesher](https://github.com/theyanesher) \
 6)Rishi Vishwakarma [rishift](https://github.com/rishift) \
 7)Shrey Patel [SPatel1709](https://github.com/SPatel1709) \
-8)Mehul Mathur [mehulmathur05](https://github.com/mehulmathur05)
+8)Palak Agarwal [palak180](https://github.com/palak180) \
+9)Aditya Srivastava [a-d-i-t-y-a31](https://github.com/a-d-i-t-y-a31) \
+10)Mehul Mathur [mehulmathur05](https://github.com/mehulmathur05) \
 
 ## Task 2
 
