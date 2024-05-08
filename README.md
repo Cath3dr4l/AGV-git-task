@@ -44,7 +44,8 @@ ENTER NAMES HERE \
 10)Mehul Mathur [mehulmathur05](https://github.com/mehulmathur05) \
 11)Sandip Das [real-Sandip-Das](https://github.com/real-Sandip-Das) \
 12)John Felix [johnfelix2911](https://github.com/johnfelix2911) \
-13)Ishan Phanse [ishanph2005](https://github.com/ishanph2005)
+13)Ishan Phanse [ishanph2005](https://github.com/ishanph2005) \
+14)Anushka Raheja [anushka-raheja](https://github.com/anushka-raheja) \
 
 ## Task 2
 
