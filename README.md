@@ -39,7 +39,7 @@ ENTER NAMES HERE \
 5)Theyanesh [theyanesher](https://github.com/theyanesher) \
 6)Rishi Vishwakarma [rishift](https://github.com/rishift) \
 7)Shrey Patel [SPatel1709](https://github.com/SPatel1709) \
-8)Ishan Phanse [ishanph2005](https://github.com/ishanph2005).
+8)Ishan Phanse [ishanph2005](https://github.com/ishanph2005)
 
 ## Task 2
 
