@@ -1,2 +1,0 @@
-hello This is for the 3rd task.
-I am just writing the dummy code
