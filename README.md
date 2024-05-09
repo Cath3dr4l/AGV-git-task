@@ -47,7 +47,8 @@ ENTER NAMES HERE \
 13)Ishan Phanse [ishanph2005](https://github.com/ishanph2005) \
 14)Utsav Agarwal [Utsavag1](https://github.com/Utsavag1) \
 15)Rimi Patel [rimi-29](https://github.com/rimi-29) \
-16)Ninaad Desai [ninzzd](https://github.com/ninzzd) 
+16)Ninaad Desai [ninzzd](https://github.com/ninzzd) \
+17)Rhythm Jain [rhythm1920](https://github.com/rhythm1920)
 
 
 ## Task 2
