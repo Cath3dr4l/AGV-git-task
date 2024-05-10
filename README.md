@@ -48,6 +48,7 @@ ENTER NAMES HERE \
 14)Utsav Agarwal [Utsavag1](https://github.com/Utsavag1) \
 15)Rimi Patel [rimi-29](https://github.com/rimi-29) \
 16)Ninaad Desai [ninzzd](https://github.com/ninzzd) 
+17)Maitreyee Chakraborty [chakraborty-m](https://github.com/chakraborty-m) \
 
 
 ## Task 2
