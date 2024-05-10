@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+int x;
+    printf("Try programiz.pro");
+scanf("%d",&x);
+printf("\n%d",x);
+
+    return 0;
+}
