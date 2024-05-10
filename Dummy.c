@@ -5,7 +5,12 @@ int main(){
 =======
     printf("C2\n");
     printf("C3\n");
+<<<<<<< HEAD
 >>>>>>> 4d3a19b... C3
+=======
+    printf("C4\n");
+    printf("C5\n");
+>>>>>>> c9ea66e... C5
     return 0;
 }
 
