@@ -1,6 +1,11 @@
 #include <stdio.h>
 int main(){
     printf("C1\n");
+<<<<<<< HEAD
+=======
+    printf("C2\n");
+    printf("C3\n");
+>>>>>>> 4d3a19b... C3
     return 0;
 }
 
