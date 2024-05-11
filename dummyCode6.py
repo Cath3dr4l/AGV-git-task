@@ -1,0 +1,1 @@
+workplace=input("Where do you work?")
