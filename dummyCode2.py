@@ -1,0 +1,1 @@
+job=input("What do you do?")
